@@ -69,9 +69,12 @@ The project is being designed with performance constraints in mind, prioritising
 
 ## Project Goals
 The initial goal is to build a small, polished, playable action RPG prototype demonstrating original gameplay mechanics and software development skills.
-
 This repository will document the project's progress through regular commits and development updates.
 
 ## Author
 
-Independent computing student project, developed for learning, practical experience, and professional portfolio development.
+**Mariane Piva**
+**Software Engineering Graduate | Aspiring Game Developer**
+Software Engineering graduate with a strong interest in game development, programming, and software engineering.
+Currently developing *Echoes of the Fallen*, a personal action RPG project using Unreal Engine 5, Blueprint Visual Scripting, and, progressively, C++.
+This project demonstrates practical skills in software development, problem-solving, version control, debugging, and game programming.
