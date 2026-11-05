@@ -74,6 +74,7 @@ This repository will document the project's progress through regular commits and
 ## Author
 
 **Mariane Piva**
+
 **Software Engineering Graduate | Aspiring Game Developer**
 Software Engineering graduate with a strong interest in game development, programming, and software engineering.
 Currently developing *Echoes of the Fallen*, a personal action RPG project using Unreal Engine 5, Blueprint Visual Scripting, and, progressively, C++.
