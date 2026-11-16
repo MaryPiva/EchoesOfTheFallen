@@ -26,9 +26,9 @@ The project focuses on responsive combat, character progression, enemy AI, and i
 - [x] Tested basic character movement and jumping
 - [x] Created a public GitHub repository
 - [x] Configured Git LFS for Unreal Engine assets
-- [ ] Implement a basic melee combat system
-- [ ] Develop a health and damage system
-- [ ] Add enemy AI
+- [x] Implement a basic melee combat system
+- [x] Develop a health and damage system
+- [x] Add enemy AI
 - [ ] Implement dodging and blocking
 - [ ] Develop character progression
 - [ ] Create the first boss encounter
